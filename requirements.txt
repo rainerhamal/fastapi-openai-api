@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+openai
+pydantic
+alembic
+psycopg2
+pytest
+requests
+python-dotenv
